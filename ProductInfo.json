@@ -1,0 +1,27 @@
+[
+  {
+    "ProductId": 7777,
+    "Name": "Сапог",
+    "Cost": 150
+  },
+  {
+    "ProductId": 6666,
+    "Name": "Чайник",
+    "Cost": 300
+  },
+  {
+    "ProductId": 9999,
+    "Name": "Мел",
+    "Cost": 20
+  },
+  {
+    "ProductId": 3333,
+    "Name": "Графин",
+    "Cost": 50
+  },
+  {
+    "ProductId": 1111,
+    "Name": "Клецк",
+    "Cost": 1000
+  }
+]
